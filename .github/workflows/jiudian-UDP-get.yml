@@ -20,6 +20,9 @@ jobs:
           python-version: 3.x
 
       - name: 安装依赖
+        run: sudo apt-get install python3-dev     
+
+      - name: 安装依赖
         run: pip install selenium requests futures eventlet
 
       - name: 安装依赖1
@@ -32,6 +35,9 @@ jobs:
         run: pip install github  
       - name: 安装依赖5
         run: pip install --upgrade pip
+      - name: 安装依赖6
+        run: pip install --no-cache-dir aiohttp  
+
 
       - name: 运行UDP源采集脚本
         run: |
