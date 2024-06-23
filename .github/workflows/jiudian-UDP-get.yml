@@ -24,6 +24,8 @@ jobs:
 
       - name: 安装依赖1
         run: pip install beautifulsoup4
+      - name: 安装依赖2
+        run: pip install playwright        
         
       - name: 运行UDP源采集脚本
         run: |
