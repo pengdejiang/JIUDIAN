@@ -22,9 +22,6 @@ jobs:
       - name: 安装依赖
         run: pip install selenium requests futures eventlet
 
-      - name: Run itv
-        run: python ${{ github.workspace }}/py/itv.py
-
       - name: 运行UDP源采集脚本
         run: |
           nohup python ${{ github.workspace }}/py/zubo-caiji.py
