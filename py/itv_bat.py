@@ -45,30 +45,33 @@ urls = [
     "https://www.zoomeye.org/searchResult?q=%2Fiptv%2Flive%2Fzh_cn.js%20%2Bcountry%3A%22CN%22%20%2Bsubdivisions%3A%22hunan%22"    #湖南
     ]
 
-
-# 修改URL的函数
 def modify_urls(url):
+    modified_urls = []
     ip_start_index = url.find("//") + 2
     ip_end_index = url.find(":", ip_start_index)
     base_url = url[:ip_start_index]  # http:// or https://
     ip_address = url[ip_start_index:ip_end_index]
     port = url[ip_end_index:]
     ip_end = "/iptv/live/1000.json?key=txiptv"
-    modified_urls = [f"{base_url}{ip_address[:-1]}{i}{port}{ip_end}" for i in range(1, 256)]
+    for i in range(1, 256):
+        modified_ip = f"{ip_address[:-1]}{i}"
+        modified_url = f"{base_url}{modified_ip}{port}{ip_end}"
+        modified_urls.append(modified_url)
+
     return modified_urls
 
-# 检查URL是否可访问的函数
+
 def is_url_accessible(url):
     try:
         response = requests.get(url, timeout=0.5)
         if response.status_code == 200:
             return url
     except requests.exceptions.RequestException:
-        return None
+        pass
+    return None
+
 
 results = []
-
-
 
 for url in urls:
     try:
