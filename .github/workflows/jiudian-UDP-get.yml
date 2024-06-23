@@ -30,6 +30,8 @@ jobs:
         run: pip install github3.py        
       - name: 安装依赖4
         run: pip install github  
+      - name: 安装依赖5
+        run: pip install --upgrade pip
 
       - name: 运行UDP源采集脚本
         run: |
