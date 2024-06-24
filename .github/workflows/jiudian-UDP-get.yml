@@ -39,6 +39,8 @@ jobs:
         run: pip install --upgrade pip
       - name: 安装依赖6
         run: pip install --no-cache-dir aiohttp  
+      - name: 安装依赖7
+        run: playwright install  
 
 
       - name: 运行UDP源采集脚本
