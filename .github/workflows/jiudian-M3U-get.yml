@@ -4,7 +4,7 @@ name: jiudian-M3U-get  #这个是采集非组播源 测试通过 运行调用文
 on:
   workflow_dispatch:
   schedule:
-    - cron: '18 21,1,6,9* * *'
+    - cron: '18 21,1,6,9 * * *'
 
 jobs:
   build:
