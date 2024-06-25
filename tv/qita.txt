@@ -1,14 +1,12 @@
 其他频道,#genre#
-CHC家庭影院,http://112.235.202.172:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://112.235.202.6:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://112.235.202.60:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC电影,http://112.235.202.172:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC电影,http://112.235.202.51:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC电影,http://112.235.202.60:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭电影,http://61.184.128.243:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC电影,http://112.235.200.208:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC电影,http://112.235.200.43:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+武汉2电视剧,http://58.48.37.158:1111/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://113.218.229.25:8081/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://223.159.9.212:8099/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南电视剧,http://223.159.9.212:8099/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 
-06月25日17时,#genre#
+06月26日05时,#genre#
 
 CCTV1,http://58.210.60.226:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
