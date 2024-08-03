@@ -1,9 +1,11 @@
 其他频道,#genre#
-IPTV热播剧场,http://219.137.230.87:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 IPTV热播剧场,http://219.137.230.192:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-电影,http://123.189.36.103:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
-电影,http://123.189.36.155:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
+IPTV热播剧场,http://219.137.230.87:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+欢笑剧场,http://180.213.174.231:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+武汉2电视剧,http://59.173.243.210:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+都市剧场,http://180.213.174.231:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 
-08月03日14时,#genre#
+08月03日17时,#genre#
 
 CCTV1,http://58.210.60.226:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
