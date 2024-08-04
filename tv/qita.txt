@@ -1,8 +1,14 @@
 其他频道,#genre#
+CHC动作电影,http://119.125.104.110:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭电影,http://119.125.104.110:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC电影,http://119.125.104.110:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 热播剧场,http://119.125.104.110:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
-经典电影,http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+电影,http://123.189.36.155:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
+电影,http://123.189.36.103:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
+福建电视剧,http://117.27.190.42:9998/tsfile/live/23287_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://123.189.36.155:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 龙祥电影,http://119.125.104.110:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 
-08月04日17时,#genre#
+08月05日05时,#genre#
 
 CCTV1,http://58.210.60.226:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
