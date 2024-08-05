@@ -1,8 +1,7 @@
 其他频道,#genre#
-CHC家庭电影,http://119.125.104.198:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-热播剧场,http://119.125.104.198:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
-电影,http://123.189.36.155:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
+武汉2电视剧,http://59.173.243.210:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://123.189.36.103:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 
-08月05日14时,#genre#
+08月05日17时,#genre#
 
 CCTV1,http://58.210.60.226:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
