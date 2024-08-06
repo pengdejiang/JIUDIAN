@@ -3,7 +3,7 @@ name: jiudian-UDP-get  #这个是采集组播源
 
 on:
   workflow_dispatch:
-  schedule:
+  #schedule:
     - cron: '0 8,11,14,17,23,3 * * *'
 # 提交报错解决方案_加入写入权限
 permissions:
